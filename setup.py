@@ -7,7 +7,7 @@ from setuptools import find_packages, setup, Command
 
 PACKAGE_NAME = "ctakes_parser"
 SHORT_DESCRIPION = "Python 3 port of CTakes output parser."
-URL = "https://github.com/JuliaHealth/CTakesParser.jl"
+URL = "https://github.com/tchedrace/CTakesParser"
 LICENCE = 'LIMICS'
 
 
